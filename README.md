@@ -1,4 +1,4 @@
-# Creatig Movies in 2020
+# Creating Movies in 2020
 
 Welcome! In this repo I present my EDA performed looking to answer the queston "WHAT TYPE OF FILMS TO CREATE?
 
