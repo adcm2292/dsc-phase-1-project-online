@@ -8,29 +8,29 @@ Please see index below:
 
 ## * Notebook 0 (n_0)
 
-### I. Overview
+    I. Overview
 
-### II. Business Problem
+    II. Business Problem
 
-### III. Understanding the Data
+    III. Understanding the Data
 
-### IV. Data Preparation
+    IV. Data Preparation
 
-### V. Data Modeling Intro
+    V. Data Modeling Intro
 
 ## * Notebook 1 (n_1)
 
-### The Studios Analysis
+    The Studios Analysis
 
 ## * Notebook 2 (n_2)
 
-### The Numbers Analysis
+    The Numbers Analysis
 
-## * Notebook 3 (n_3)
+## Notebook 3 (n_3)
 
-### The Ratings Analysis
+    The Ratings Analysis
 
 ## * Notebook 4 (n_4)
 
-### The Netflix Effect and Future Work
-### Final Recommendation
+    The Netflix Effect and Future Work
+    Final Recommendation
