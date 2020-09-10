@@ -1,6 +1,6 @@
 # Creating Movies in 2020
 
-Welcome! In this repo I present my EDA performed looking to answer the queston "WHAT TYPE OF FILMS TO CREATE?
+Welcome! In this repo I present my EDA performed looking to answer the question "WHAT TYPE OF FILMS TO CREATE?
 
 In the "notebooks" folder you will find a total of five notebooks containing my work. 
 
