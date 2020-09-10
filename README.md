@@ -26,7 +26,7 @@ Please see index below:
 
     The Numbers Analysis
 
-## Notebook 3 (n_3)
+## * Notebook 3 (n_3)
 
     The Ratings Analysis
 
