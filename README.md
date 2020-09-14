@@ -1,10 +1,10 @@
 # Creating Movies in 2020
 
-Welcome! In this repo I present my EDA performed looking to answer the question "WHAT TYPE OF FILMS TO CREATE?
+Welcome! In this repo I present an EDA performed looking to answer the question "WHAT TYPE OF FILMS TO CREATE?"
 
 In the "notebooks" folder you will find a total of five notebooks containing my work. 
 
-I focused my exploration on the genres, finances and people's preference. Also patterns, over outliers. There's only one Avatar or one Titanic. 
+I focused my exploration on the genres, finances and people's preferences. Also patterns, over outliers. There's only one Avatar or one Titanic. 
 
 
 Please see index below:
